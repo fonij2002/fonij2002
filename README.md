@@ -1,31 +1,59 @@
-## 💫 Who Am I?
+# Hi! I'm Foroozan, a Product Builder.
 
-- 😄 I'm Foroozan Iraji, a 24-year-old who is exploring the art of building in business, in thought, and in life.
-- 🎓 Graduated from Sharif University of Technology, majoring in Computer Engineering.
-- 💼 Passionately interested in Business, Marketing, and digital user behavior.
-- 🔭 Currently working on turning my ideas into working software and trying to automate my development process.
-- 👯 Looking to collaborate on any cool software ideas.
-- 💬 Ask me about the book I’m reading and the new ideas I have.
+- I enjoy turning ideas into real products by combining technology, product thinking, and execution.
+ 
+- I've built AI-powered, web, and mobile products from concept to MVP as a technical co-founder and product builder.
 
-  
-## 👀 Where Can You Find Me?
+- I'm currently focused on building meaningful products, validating ideas, and documenting what I learn along the way.
 
-[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://fonij2002.com)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?logo=telegram&logoColor=white)](https://t.me/Foroozan_Iraji)
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fonij2002@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/foroozan-iraji) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@fonij2002) 
 
-## 💻 What Am I Capable of?
+## 🚀 Currently Building
 
-- Building maintainable web and mobile apps (Android & iOS) with clean design, solid performance, and fewer “why is this broken?” moments.
-- Converting messy ideas from rough concept to polished product.
-  
+- 🏦 **BazarVam**: A marketplace for trading loan entitlements.
+- 🤖 **AI Automation**: Building AI assistants that simplify business workflows.
 
-## 📊 What Is My Coding Stats?
 
-![](https://github-readme-stats.vercel.app/api?username=fonij2002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+## ⭐ Selected Products
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=fonij2002&theme=tokyonight&hide_border=true)
+#### 🏦 BazarVam
+Marketplace platform with a conversational bot experience for buying and selling loan entitlements.
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fonij2002&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**Stack:** Django · DRF · PostgreSQL · Bale Bot API
+
+---
+
+#### ❤️ Lifence
+AI-powered health companion designed to support older adults through conversations, medication reminders, and health monitoring.
+
+**Stack:** Django · DRF · PostgreSQL · OpenAI API
+
+---
+
+#### 🥇 [Gold Trading Marketplace](https://github.com/Gold-Trading-Marketplace)
+Full-stack mobile and web application for digital gold trading.
+
+**Stack:** React Native · Django · PostgreSQL
+
+---
+
+#### 📝 [Wizzylist](https://github.com/fonij2002/wizzylist)
+A lightweight wishlist application built with React and TypeScript, evolved from an AI-assisted prototype into a polished frontend product.
+
+**Stack:** React.js · TypeScript
+
+
+## 🛠️ TECHNICAL SKILLS
+
+**Programming Languages**: Python · Typescript · Java
+
+**Frameworks​**: Django · React.js · Next.js · React Native · Spring Boot
+
+**Tools​**: PostgreSQL · Git · Docker · Postman · CursorAI · VS Code · Figma
+
+**AI & APIs**: OpenAI API · REST APIs
+
+---
+
+## 🌍 Find Me
+
+[![Website](https://img.shields.io/badge/Website-000000?logo=google-chrome&logoColor=white)](https://fonij2002.com) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:fonij2002@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/foroozan-iraji)
