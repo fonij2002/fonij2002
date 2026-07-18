@@ -2,6 +2,8 @@
 
 > My Life Motto: “What do we build for, if not to lessen each other’s hardship?”
 
+> Follow my journey on [The Builder Notes](https://t.me/the_builder_notes)
+
 - I enjoy turning ideas into real products by combining technology, product thinking, and execution.
  
 - I've built web, and mobile products from concept to MVP as a technical co-founder and product builder.
